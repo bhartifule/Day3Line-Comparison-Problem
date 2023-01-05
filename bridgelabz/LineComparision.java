@@ -32,10 +32,11 @@ public class LineComparision {
 
             System.out.println("line 1 is greater than line 2");
 
-        } else {
+        } else if{
             System.out.println( "line 2 is greater than line 1");
 
-        }{
+        }
+		else {
             System.out.println( "Two lines are not equal");
 
         }
