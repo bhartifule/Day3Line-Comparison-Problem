@@ -1,4 +1,4 @@
-package com.bridgelabz;
+package com.bridgelabz.Day3;
 import static java.lang.Math.sqrt;
 
 import java.util.Scanner;
