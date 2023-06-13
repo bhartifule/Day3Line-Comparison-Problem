@@ -3,7 +3,8 @@ import static java.lang.Math.sqrt;
 
 import java.util.Scanner;
 
-public class LineComparision {
+public class LineComparision 
+{
 	 private  Double length1;
 	   private Double length2;
 	    public LineComparision1 setCompareValues(){
