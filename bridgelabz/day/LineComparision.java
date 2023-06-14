@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class LineComparision {
 	 private  Double length1;
 	   private Double length2;
-	    public LineComparision1 setCompareValues(){
+	    public LineComparision1 setCompareValues(){ 
 	        LineComparision1 obj = new LineComparision1();
 	        Scanner scan = new Scanner(System.in);
 	        System.out.println(" enter values X & Y co-oradinates");
