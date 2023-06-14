@@ -1,6 +1,6 @@
 package com.bridgelabz.day;
 
-public class LineComparision1 {
+public class LineComparision1  {
 	 private int x11;
      private int x12;
      private int y11;
