@@ -3,7 +3,7 @@ import static java.lang.Math.sqrt;
 
 import java.util.Scanner;
 
-public class LineComparision {
+public class LineComparision  {
 	public static void main(String[] args) {
 
         System.out.println("Welcome to line comparison computation program");
