@@ -1,7 +1,7 @@
 package com.bridgelabz.Day3;
 import static java.lang.Math.sqrt;
 
-public class LineComparision {
+public class LineComparision  {
 	static int x1 = 2;
     static int x2 = 5;
     static int y1 = 3;
